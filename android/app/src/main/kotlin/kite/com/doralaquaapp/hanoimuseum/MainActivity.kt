@@ -1,0 +1,6 @@
+package kite.com.doralaquaapp.hanoimuseum
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
